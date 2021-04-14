@@ -81,11 +81,6 @@ body {
             font-weight: bold;
             color: $login-button-color;
             transition: background-color 0.2s;
-			border-radius: 0;
-			-webkit-border-radius: 0;
-			appearance: none;
-			-moz-appearance: none;
-			-webkit-appearance: none;
             &:hover {
                 background-color: darken($login-button-background-color, 5);
                 transition: background-color 0.2s;
@@ -214,11 +209,6 @@ body.loggedin {
 			background-color: $login-button-background-color;
 			margin: 15px 5px 0 0;
 			padding: 10px 15px;
-			border-radius: 0;
-			-webkit-border-radius: 0;
-			appearance: none;
-			-moz-appearance: none;
-			-webkit-appearance: none;
 			&:hover {
 				background-color: darken($login-button-background-color, 5);
 			}

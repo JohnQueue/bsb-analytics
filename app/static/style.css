@@ -83,11 +83,6 @@ body {
   font-weight: bold;
   color: #ffffff;
   transition: background-color 0.2s;
-  border-radius: 0;
-  -webkit-border-radius: 0;
-  appearance: none;
-  -moz-appearance: none;
-  -webkit-appearance: none;
 }
 
 .login form input[type="submit"]:hover, .register form input[type="submit"]:hover {
@@ -236,11 +231,6 @@ body.loggedin {
   background-color: #3274d6;
   margin: 15px 5px 0 0;
   padding: 10px 15px;
-  border-radius: 0;
-  -webkit-border-radius: 0;
-  appearance: none;
-  -moz-appearance: none;
-  -webkit-appearance: none;
 }
 
 .content.profile .profile-btn:hover {
