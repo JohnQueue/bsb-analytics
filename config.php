@@ -21,8 +21,8 @@ define('account_activation',true);
 define('mail_from','Blood Sugar Blaster Analytics <admin@pconversions.com>');
 
 // Add-ons config
-define('csrf_protection',true);
-define('brute_force_protection',true);
+define('csrf_protection',false);
+define('brute_force_protection',false);
 
 // MVC Config below
 // Enable/disable cache, only enable the cache in production mode
