@@ -2,9 +2,9 @@
 // database hostname, you don't usually need to change this
 define('db_host', 'localhost');
 // database username
-define('db_user', 'root');
+define('db_user', 'phpadmin');
 // database password
-define('db_pass', '');
+define('db_pass', 'phpadmin1234qwer');
 // database name
 define('db_name', 'phplogin');
 // database charset, change this only if utf8 is not supported by your language
